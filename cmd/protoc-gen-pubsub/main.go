@@ -16,8 +16,8 @@ package main
 
 import (
 	"github.com/bufbuild/protoplugin"
-	"github.com/bufbuild/protoschema-plugins/internal/protoschema"
-	"github.com/bufbuild/protoschema-plugins/internal/protoschema/plugin/pluginpubsub"
+	"github.com/hypnoce/protoschema-plugins/internal/protoschema"
+	"github.com/hypnoce/protoschema-plugins/internal/protoschema/plugin/pluginpubsub"
 )
 
 func main() {
