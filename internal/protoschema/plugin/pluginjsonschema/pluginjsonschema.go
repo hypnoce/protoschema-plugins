@@ -70,7 +70,7 @@ func Handle(
 	}
 
 	responseWriter.SetFeatureProto3Optional()
-	responseWriter.SetFeatureSupportsEditions(descriptorpb.Edition_EDITION_2023, descriptorpb.Edition_EDITION_2023)
+	responseWriter.SetFeatureSupportsEditions(descriptorpb.Edition_EDITION_2023, descriptorpb.Edition_EDITION_2024)
 	return nil
 }
 
