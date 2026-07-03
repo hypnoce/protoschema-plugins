@@ -19,7 +19,7 @@ single self-contained messaged normalized to proto2.
 Install the `protoc-gen-pubsub` plugin directly:
 
 ```sh
-go install github.com/bufbuild/protoschema-plugins/cmd/protoc-gen-pubsub@latest
+go install github.com/hypnoce/protoschema-plugins/cmd/protoc-gen-pubsub@latest
 ```
 
 Or reference it as a [Remote Plugin](https://buf.build/docs/generate/remote-plugins) in `buf.gen.yaml`:
@@ -42,7 +42,7 @@ uses the latest [JSON Schema Draft 2020-12](https://json-schema.org/draft/2020-1
 Install the `protoc-gen-jsonschema` directly:
 
 ```sh
-go install github.com/bufbuild/protoschema-plugins/cmd/protoc-gen-jsonschema@latest
+go install github.com/hypnoce/protoschema-plugins/cmd/protoc-gen-jsonschema@latest
 ```
 
 Or reference it as a [Remote Plugin](https://buf.build/docs/generate/remote-plugins) in `buf.gen.yaml`:
@@ -329,8 +329,8 @@ This project is currently in **alpha**. The API should be considered unstable an
 
 Offered under the [Apache 2 license][license].
 
-[badges_ci]: https://github.com/bufbuild/protoschema-plugins/actions/workflows/ci.yaml
-[badges_goreportcard]: https://goreportcard.com/report/github.com/bufbuild/protoschema-plugins
-[badges_godoc]: https://pkg.go.dev/github.com/bufbuild/protoschema-plugins
+[badges_ci]: https://github.com/hypnoce/protoschema-plugins/actions/workflows/ci.yaml
+[badges_goreportcard]: https://goreportcard.com/report/github.com/hypnoce/protoschema-plugins
+[badges_godoc]: https://pkg.go.dev/github.com/hypnoce/protoschema-plugins
 [badges_slack]: https://join.slack.com/t/bufbuild/shared_invite/zt-f5k547ki-dW9LjSwEnl6qTzbyZtPojw
-[license]: https://github.com/bufbuild/protoschema-plugins/blob/main/LICENSE.txt
+[license]: https://github.com/hypnoce/protoschema-plugins/blob/main/LICENSE.txt

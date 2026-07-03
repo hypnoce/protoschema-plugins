@@ -264,8 +264,8 @@ const file_buf_protoschema_test_v1_test_cases_proto_rawDesc = "" +
 	"bool_field\x18\x03 \x01(\bR\tboolField\x12\x1f\n" +
 	"\vbytes_field\x18\x04 \x01(\fR\n" +
 	"bytesField\x12S\n" +
-	"\x10nested_reference\x18\x05 \x01(\v2(.buf.protoschema.test.v1.NestedReferenceR\x0fnestedReferenceB\x87\x02\n" +
-	"\x1bcom.buf.protoschema.test.v1B\x0eTestCasesProtoP\x01ZYgithub.com/hypnoce/protoschema-plugins/internal/gen/proto/buf/protoschema/test/v1;testv1\xa2\x02\x03BPT\xaa\x02\x17Buf.Protoschema.Test.V1\xca\x02\x17Buf\\Protoschema\\Test\\V1\xe2\x02#Buf\\Protoschema\\Test\\V1\\GPBMetadata\xea\x02\x1aBuf::Protoschema::Test::V1b\x06proto3"
+	"\x10nested_reference\x18\x05 \x01(\v2(.buf.protoschema.test.v1.NestedReferenceR\x0fnestedReferenceB\x86\x02\n" +
+	"\x1bcom.buf.protoschema.test.v1B\x0eTestCasesProtoP\x01ZXgithub.com/hypnoce/protoschema-plugins/internal/gen/proto/buf/protoschema/test/v1;testv1\xa2\x02\x03BPT\xaa\x02\x17Buf.Protoschema.Test.V1\xca\x02\x17Buf\\Protoschema\\Test\\V1\xe2\x02#Buf\\Protoschema\\Test\\V1\\GPBMetadata\xea\x02\x1aBuf::Protoschema::Test::V1b\x06proto3"
 
 var (
 	file_buf_protoschema_test_v1_test_cases_proto_rawDescOnce sync.Once
