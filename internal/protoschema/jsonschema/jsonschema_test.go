@@ -21,7 +21,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/bufbuild/protoschema-plugins/internal/protoschema/golden"
+	"github.com/hypnoce/protoschema-plugins/internal/protoschema/golden"
 	"github.com/santhosh-tekuri/jsonschema/v6"
 	"github.com/stretchr/testify/require"
 	"gopkg.in/yaml.v3"

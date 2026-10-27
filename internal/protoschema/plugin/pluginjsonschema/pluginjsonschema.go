@@ -23,7 +23,7 @@ import (
 	"strings"
 
 	"github.com/bufbuild/protoplugin"
-	"github.com/bufbuild/protoschema-plugins/internal/protoschema/jsonschema"
+	"github.com/hypnoce/protoschema-plugins/internal/protoschema/jsonschema"
 	"google.golang.org/protobuf/reflect/protoreflect"
 	"google.golang.org/protobuf/types/descriptorpb"
 )
